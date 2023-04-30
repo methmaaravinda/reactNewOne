@@ -1,0 +1,1 @@
+export const CLICK_IMAGE = 'CLICK_IMAGE'
